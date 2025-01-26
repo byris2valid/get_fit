@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Get Fit 💪
 
 A Flutter-based fitness application that helps you achieve your workout goals.
@@ -47,30 +46,3 @@ Get Fit is your personal fitness companion designed to make your workout journey
 - Weight logging
 - BMI calculator
 - Personal goals setting
-=======
-# Get Fit
-
-Overview
-
-The Get Fit App is a Flutter-based fitness platform designed to provide a seamless and interactive user experience. It features a user-friendly interface, light/dark theme toggle, login functionality, and navigation to a registration page for new users.
-
-
-Features
-Theme Toggle
-
-Switch between light and dark mode using the floating action button.
-Login Form
-
-Email and password fields for secure login.
-Registration Navigation
-
-Option to navigate to a "Register Now" page for new users.
-Custom Components
-
-Utilizes reusable widgets such as:
-TextFieldWidget for form inputs.
-MyButton for the login button.
-Modern UI Design
-
-Incorporates material design elements with custom themes.
->>>>>>> a30e2989a3219ea6f06c6f4680ba078b0e7b1d53
