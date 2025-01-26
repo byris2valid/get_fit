@@ -1,6 +1,6 @@
 # Get Fit 💪
 
-A Flutter-based fitness application that helps you achieve your workout goals.
+A Flutter-based fitness application that helps you achieve your workout goals. 
 
 ## About Get Fit
 
