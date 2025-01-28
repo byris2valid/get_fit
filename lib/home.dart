@@ -92,19 +92,17 @@ GestureDetector(
     style: TextStyle(
       color: Theme.of(context).colorScheme.onSecondaryContainer,
       fontWeight: FontWeight.bold,
-    ),
-  ),
-)
-          ],
+                ),
+               ),
+              )
+             ],
+            ),
+           ],
           ),
+         ),
 
-
-        ],
-       ),
-
-
-
-      ),
+         // The theme switcher 
+         
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           ThemeProvider.of(context).toggleTheme(themeData: themeProvider.isDarkMode ? ThemeData.light() : ThemeData.dark());
