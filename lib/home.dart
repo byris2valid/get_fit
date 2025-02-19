@@ -76,7 +76,7 @@ class Home extends StatelessWidget {
               fontWeight: FontWeight.bold,
             ),
            ),
-GestureDetector(
+         GestureDetector(
   onTap: () {
     Navigator.push(
       context,
